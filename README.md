@@ -1,1 +1,1 @@
-# -BIAnalyst-BankMuamalat
+# BIAnalyst-BankMuamalat
